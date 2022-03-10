@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A839FDC927DA31510079B79D /* GitFirst.swift in Sources */ = {isa = PBXBuildFile; fileRef = A839FDC827DA31510079B79D /* GitFirst.swift */; };
 		A89676EE27B307F7004858DC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A89676ED27B307F7004858DC /* AppDelegate.swift */; };
 		A89676F027B307F7004858DC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A89676EF27B307F7004858DC /* SceneDelegate.swift */; };
 		A89676F227B307F7004858DC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A89676F127B307F7004858DC /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* Begin PBXFileReference section */
 		0D3C61E3934A674A245EFE05 /* Pods_SnapKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SnapKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2428BB93493FF3A32EE98A2A /* Pods-SnapKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SnapKit.debug.xcconfig"; path = "Target Support Files/Pods-SnapKit/Pods-SnapKit.debug.xcconfig"; sourceTree = "<group>"; };
+		A839FDC827DA31510079B79D /* GitFirst.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitFirst.swift; sourceTree = "<group>"; };
 		A89676EA27B307F7004858DC /* SnapKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SnapKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A89676ED27B307F7004858DC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A89676EF27B307F7004858DC /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -73,6 +75,7 @@
 			children = (
 				A89676ED27B307F7004858DC /* AppDelegate.swift */,
 				A89676EF27B307F7004858DC /* SceneDelegate.swift */,
+				A839FDC827DA31510079B79D /* GitFirst.swift */,
 				A89676F127B307F7004858DC /* ViewController.swift */,
 				A89676F327B307F7004858DC /* Main.storyboard */,
 				A89676F627B307FA004858DC /* Assets.xcassets */,
@@ -88,7 +91,6 @@
 				2428BB93493FF3A32EE98A2A /* Pods-SnapKit.debug.xcconfig */,
 				FB0677E9255ACF5C6DC8F4B1 /* Pods-SnapKit.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -208,6 +210,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A89676F227B307F7004858DC /* ViewController.swift in Sources */,
+				A839FDC927DA31510079B79D /* GitFirst.swift in Sources */,
 				A89676EE27B307F7004858DC /* AppDelegate.swift in Sources */,
 				A89676F027B307F7004858DC /* SceneDelegate.swift in Sources */,
 			);
