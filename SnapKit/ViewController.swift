@@ -12,6 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        var button = UIButton()
+        var num = 3
        // constraintSetup()
        
     }
